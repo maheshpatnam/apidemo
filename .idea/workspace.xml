@@ -1,7 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2502166a-b632-4bad-b47e-aebd3b251b6f" name="Default" comment="" />
+    <list default="true" id="2502166a-b632-4bad-b47e-aebd3b251b6f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboard/README.TXT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/css/dashboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/css/jquery-ui.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/css/jquery-ui.structure.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/css/jquery-ui.theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/css/legends.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/css/theme.blue.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/curvedLines.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/dashboard-commons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/dashboard.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/graph.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/hashtable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/jquery-ui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/jquery.cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/jquery.flot.stack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/jquery.numberformatter-1.2.3.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/js/jquery.tablesorter.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/pages/OverTime.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/pages/ResponseTimes.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/pages/Throughput.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/content/pages/icon-apache.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot-axislabels/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot-axislabels/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot-axislabels/jquery.flot.axislabels.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/js/excanvas.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/js/jquery.flot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/js/jquery.flot.tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/js/jquery.flot.tooltip.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot.tooltip/js/jquery.flot.tooltip.source.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/API.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/FAQ.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/NEWS.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/PLUGINS.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/excanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/excanvas.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/flot.jquery.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.colorhelpers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.canvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.categories.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.crosshair.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.errorbars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.fillbetween.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.navigate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.pie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.resize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.selection.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.stack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.symbol.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.threshold.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.flot.time.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/flot/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/extras.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/spinning.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_extras.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_spinning.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/jquery/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/jquery/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/jquery/dist/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/jquery/dist/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/jquery/dist/jquery.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/metisMenu/.bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/metisMenu/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/metisMenu/dist/metisMenu.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/bower_components/metisMenu/dist/metisMenu.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/css/dashboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/css/jquery-ui.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/css/jquery-ui.structure.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/css/jquery-ui.theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/css/legends.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/css/sb-admin-2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/dist/js/sb-admin-2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/less/sb-admin-2.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dashboard/sbadmin2-1.0.7/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/formatter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/jquery-1.8.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/report.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/Runner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/services/LoginApi.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/Login.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testutilities/ConfigRead.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +157,7 @@
         <entry file="file://$PROJECT_DIR$/ReadMe.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="37" column="67" lean-forward="false" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+              <caret line="37" column="74" lean-forward="false" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -93,17 +233,6 @@
             <path>
               <item name="apidemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="apidemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apidemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apidemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="Destination" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,7 +403,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="33" width="1680" height="983" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -286,7 +414,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -395,7 +523,7 @@
     <entry file="file://$PROJECT_DIR$/ReadMe.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="37" column="67" lean-forward="false" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <caret line="37" column="74" lean-forward="false" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
           <folding />
         </state>
       </provider>
