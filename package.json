@@ -1,0 +1,19 @@
+{
+  "name": "testassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "testapi": "mvn -f ˜/Desktop/mahesh_demo/Api_Automation test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.13.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "lodash": "^4.17.10"
+  }
+}
